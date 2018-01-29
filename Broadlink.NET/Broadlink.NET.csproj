@@ -69,6 +69,8 @@
     <Compile Include="Utils\TimerMy.cs">
       <SubType>Component</SubType>
     </Compile>
+    <Compile Include="BroadLinkService.cs" />
+    <Compile Include="RMDeviceExtensions.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
